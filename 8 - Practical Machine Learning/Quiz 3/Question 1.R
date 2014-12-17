@@ -2,7 +2,7 @@ library(AppliedPredictiveModeling)
 data(segmentationOriginal)
 library(caret)
 library(rpart)
-install.packages(rattle)
+install.packages("rattle")
 
 set.seed(125)
 
